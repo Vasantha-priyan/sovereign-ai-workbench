@@ -1,0 +1,20 @@
+REFINERY SAFETY STANDARD OPERATING PROCEDURE (SOP-REF-2026)
+DOCUMENT CONTROL NUMBER: ABC-SOP-409
+EFFECTIVE DATE: JANUARY 2026
+
+SECTION 4: EMERGENCY SHUTDOWN AND ISOLATION PROCEDURES
+Section 4.1 General Safety Policy
+All high-pressure pumps operating in Refinery Unit 4B must be monitored continuously for vibration, pressure, and mechanical seal fluid leakage.
+
+Section 4.2 Mandatory Pump Immediate Shutdown Criteria
+An immediate emergency shutdown of high-pressure pumps (such as Pump P-102A) must be initiated by the Shift Engineer upon occurrence of ANY of the following triggering conditions:
+1. Discharge Pressure exceeding 45.0 BAR (Maximum Allowable Operating Pressure limit).
+2. Vibration Spectrum Analysis indicating bearing wear level exceeding 70.0% of replacement threshold.
+3. Uncontrolled mechanical seal leakage rate exceeding 1.5 Liters per Hour.
+4. Bearing housing temperature exceeding 85.0 degrees Celsius.
+
+Section 4.3 Swapping Procedures
+Upon initiating emergency shutdown of primary pump P-102A:
+- Open bypass valve B-12 to equalize pressure across auxiliary line.
+- Engage auxiliary pump P-102B within 24 hours to maintain refinery throughput.
+- Issue formal approval note for maintenance expedition.

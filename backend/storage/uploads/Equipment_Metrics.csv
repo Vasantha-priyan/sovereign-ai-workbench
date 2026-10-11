@@ -1,0 +1,7 @@
+equipment_id,type,location,discharge_pressure_bar,bearing_wear_pct,status
+P-101,Centrifugal Pump,Unit 4A,38.2,42.0,PASS
+P-102A,High Pressure Pump,Unit 4B,48.5,78.0,CRITICAL
+P-102B,Auxiliary Pump,Unit 4B,0.0,12.0,STANDBY
+V-408,Safety Valve,Unit 4B,42.0,5.0,PASS
+H-201,Process Heater,Unit 2,12.5,65.0,WARNING
+T-301,Gas Turbine,Power Plant,18.0,30.0,PASS

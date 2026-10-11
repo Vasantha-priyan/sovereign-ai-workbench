@@ -1,0 +1,7 @@
+Industrial Equipment Inspection Audit Summary
+Equipment Unit | Inspection Score | Status | Action Required
+Pump P-101 | 92.5 | PASS | Routine Inspection
+Pump P-102A | 64.0 | CRITICAL | Immediate Shutdown
+Valve V-408 | 88.0 | PASS | Routine Inspection
+Heater H-201 | 79.5 | WARNING | Schedule Maintenance
+Turbine T-301 | 95.0 | PASS | Routine Inspection
